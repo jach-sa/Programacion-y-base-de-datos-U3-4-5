@@ -1,0 +1,56 @@
+{
+  "version": 2,
+  "dgSpecHash": "lh63lwEIH+c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jachr\\Downloads\\ChefRecetasCS\\ChefRecetasCS\\ChefRecetasCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jachr\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
+    "C:\\Users\\jachr\\.nuget\\packages\\google.protobuf\\3.32.0\\google.protobuf.3.32.0.nupkg.sha512",
+    "C:\\Users\\jachr\\.nuget\\packages\\k4os.compression.lz4\\1.3.8\\k4os.compression.lz4.1.3.8.nupkg.sha512",
+    "C:\\Users\\jachr\\.nuget\\packages\\k4os.compression.lz4.streams\\1.3.8\\k4os.compression.lz4.streams.1.3.8.nupkg.sha512",
+    "C:\\Users\\jachr\\.nuget\\packages\\k4os.hash.xxhash\\1.0.8\\k4os.hash.xxhash.1.0.8.nupkg.sha512",
+    "C:\\Users\\jachr\\.nuget\\packages\\microsoft.reportingservices.reportviewercontrol.winforms\\150.1652.0\\microsoft.reportingservices.reportviewercontrol.winforms.150.1652.0.nupkg.sha512",
+    "C:\\Users\\jachr\\.nuget\\packages\\microsoft.sqlserver.types\\14.0.314.76\\microsoft.sqlserver.types.14.0.314.76.nupkg.sha512",
+    "C:\\Users\\jachr\\.nuget\\packages\\mysql.data\\9.7.0\\mysql.data.9.7.0.nupkg.sha512",
+    "C:\\Users\\jachr\\.nuget\\packages\\questpdf\\2026.5.0\\questpdf.2026.5.0.nupkg.sha512",
+    "C:\\Users\\jachr\\.nuget\\packages\\zstdsharp.port\\0.8.6\\zstdsharp.port.0.8.6.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "Microsoft.ReportingServices.ReportViewerControl.Winforms 150.1652.0 depende de Microsoft.SqlServer.Types (>= 14.0.0), pero no se encontró Microsoft.SqlServer.Types 14.0.0. Microsoft.SqlServer.Types 14.0.314.76 se resolvió en su lugar.",
+      "projectPath": "C:\\Users\\jachr\\Downloads\\ChefRecetasCS\\ChefRecetasCS\\ChefRecetasCS.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\jachr\\Downloads\\ChefRecetasCS\\ChefRecetasCS\\ChefRecetasCS.csproj",
+      "libraryId": "Microsoft.SqlServer.Types",
+      "targetGraphs": [
+        "net10.0-windows"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.ReportingServices.ReportViewerControl.Winforms 150.1652.0\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net10.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "projectPath": "C:\\Users\\jachr\\Downloads\\ChefRecetasCS\\ChefRecetasCS\\ChefRecetasCS.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\jachr\\Downloads\\ChefRecetasCS\\ChefRecetasCS\\ChefRecetasCS.csproj",
+      "libraryId": "Microsoft.ReportingServices.ReportViewerControl.Winforms",
+      "targetGraphs": [
+        "net10.0-windows"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.SqlServer.Types 14.0.314.76\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net10.0-windows7.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "projectPath": "C:\\Users\\jachr\\Downloads\\ChefRecetasCS\\ChefRecetasCS\\ChefRecetasCS.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\jachr\\Downloads\\ChefRecetasCS\\ChefRecetasCS\\ChefRecetasCS.csproj",
+      "libraryId": "Microsoft.SqlServer.Types",
+      "targetGraphs": [
+        "net10.0-windows"
+      ]
+    }
+  ]
+}
