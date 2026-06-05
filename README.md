@@ -3,7 +3,7 @@ DURAN TOLENTINO AMANDA NOHEMI                                 24580009
 GARCIA ESPINOZA ANDREA                                        24580011
 ROMERO RAMIREZ ALEXANDER                                      24580028
 VILLAREAL VILLALOBOS NAIBY ADRIANA                            24580914
-
+Video de demostracion :https://youtu.be/O4_nyyX341k
 Diagrama:
 <img width="451" height="551" alt="Diagrama entidad-relacion" src="https://github.com/user-attachments/assets/3df74716-88bb-4290-a7a9-cd89bc4f4d9d" />
 
